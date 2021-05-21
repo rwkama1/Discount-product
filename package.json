@@ -1,0 +1,26 @@
+{
+  "name": "discount-product",
+  "version": "1.0.0",
+  "description": "Calculate a product discount",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/Discount-product"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "calculation",
+    "product",
+    "discount",
+    "total",
+    "VAT"
+  ],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "calculatepricevat": "^1.0.1"
+  }
+}
